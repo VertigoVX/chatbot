@@ -21,7 +21,7 @@ This is a simple chatbot application built using Python. The chatbot uses Natura
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/chatbot.git
+    git clone https://github.com/VertigoVX/chatbot.git
     cd chatbot
     ```
 
